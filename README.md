@@ -18,8 +18,8 @@ This appplication runs on python 3.8 version
 Run the .py file on spider. A new window will open where information can be written. 
 The format of the license plate must have 7 characters and must end in a number. If not it will trigger an error message.
 The date and hour must be valid otherwise an error box will appear.
-Finally the apropiate format for date is: dd-mm-yy. Any separation between day month or year is also valid.
-An correct example would be 02/22/2021 or 02-22-2021
+Finally the apropiate format for date is: dd-mm-yyyy. Any separation between day month or year is also valid.
+An correct example would be 22/02/2021 or 2-02-2021
 An incorrect example would be 02222021 or 2/22/2021
 
 ## Technologies
