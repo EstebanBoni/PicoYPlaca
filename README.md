@@ -26,6 +26,6 @@ A incorrect example would be 02222021 or 2/2/2021
 ***
 A list of technologies used within the project:
 
-* [datetime ](https://docs.python.org/3/library/datetime.html)
+* [datetime](https://docs.python.org/3/library/datetime.html)
 * [tkinter] (https://docs.python.org/3.8/library/tkinter.html?highlight=tkinter#module-tkinter)
 
